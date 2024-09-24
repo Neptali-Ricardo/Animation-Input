@@ -17,3 +17,7 @@ El código incluye una estructura HTML sencilla con un campo de entrada para el 
 
    ```bash
    git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+
+## Puedes ver el maquetado final de este proyecto en el siguiente enlace:
+
+https://neptali-ricardo.github.io/Animation-Input/
